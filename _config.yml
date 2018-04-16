@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/yoonshik.kim.39
-twitter: https://twitter.com/Y3flxWCZBfTdOnB
+facebook: yoonshik.kim.39
+twitter: Y3flxWCZBfTdOnB
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
